@@ -1,0 +1,34 @@
+<RoomInfo>
+	<ROOM type="SMALL">
+		<RoomNo></RoomNo>
+		<RoomSize></RoomSize>
+		<NumberOfBed></NumberOfBed>
+		<Availability></Availability>
+		<BookingName></BookingName>
+	</ROOM>
+	
+	<ROOM type="Medium">
+		<RoomNo></RoomNo>
+		<RoomSize></RoomSize>
+		<NumberOfBed></NumberOfBed>
+		<Availability></Availability>
+		<BookingName></BookingName>
+	</ROOM>
+	
+	
+	<ROOM type="Large">
+		<RoomNo></RoomNo>
+		<RoomSize></RoomSize>
+		<NumberOfBed></NumberOfBed>
+		<Availability></Availability>
+		<BookingName></BookingName>
+	</ROOM>
+	
+
+<!-- 	<faculty dept="EEE">
+		<name>Asad</name>
+		<id>1301-1234-2</id>
+		<join_date>12-01-2013</join_date>
+	</faculty> -->
+	
+</RoomInfo>
